@@ -17,7 +17,7 @@ To run the application, follow these steps:
 2. Run mvn spring-boot:run to start the server.
 3. Open a web browser and navigate to http://localhost:8080 to access the application.
 
-##Contributing
+## Contributing
 We welcome contributions to the HopeList project! If you'd like to contribute, please follow these steps:
 
 1. Fork the repository and clone it to your local machine.
