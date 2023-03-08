@@ -6,7 +6,7 @@ FamilyLink aims to reduce the number of orphans in orphanages by providing suppo
 This tagline conveys the message of the project's goal to **keep families together** and **reduce the number of orphans in orphanages**. The use of **"Bringing Families Home"** and **"give orphans a loving home"** adds a personal and emotional touch, making it memorable and powerful. The word **"Join us"** also creates a sense of community and encourages people to be a part of the cause. Additionally, the tagline emphasizes the honesty and transparency of the project's mission.
 
 ## Our Goal
-Empowering families to stay together and preventing unnecessary separations that lead to children being placed in orphanages. Our goal is to provide a platform that connects those in need with resources such as financial assistance, counseling, and legal support to help them provide a stable and nurturing home environment for their children. Through our efforts, we aim to reduce the number of orphans in orphanages and build a better future for families around the world. Join us in our mission to bring families closer together and create a brighter tomorrow for all.
+At FamilyLink, we believe that no child should be separated from their family and sent to an orphanage due to financial hardships or other obstacles. We are committed to empowering families by providing them with the necessary resources and support to keep their children in a loving and stable home environment. Our goal is to reduce the number of children living in orphanages and to prevent unnecessary family separations. Join us in our mission to build stronger, more connected families and give every child the chance to thrive in a safe and nurturing home.
 
 
 ## Getting Started
