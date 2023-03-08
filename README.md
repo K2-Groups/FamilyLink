@@ -1,8 +1,13 @@
-# HopeList
-HopeList is a project aimed at collecting information on those in need, including orphans and those living in poverty. The goal is to create a platform for sharing this information and providing help to those who need it most.
+# Home is where hope grows
+FamilyLink aims to reduce the number of orphans in orphanages by providing support to single parents and grandparents who are taking care of their children or grandchildren. Through our platform, we will connect those in need with resources such as financial assistance, counseling, and legal support to help them provide a stable and nurturing home environment for their children. Our goal is to empower families to stay together and prevent unnecessary separations that lead to children being placed in orphanages.
+
+> Bringing Families Home: Join us in the fight to keep families together and give orphans a loving home.
+
+This tagline conveys the message of the project's goal to **keep families together** and **reduce the number of orphans in orphanages**. The use of **"Bringing Families Home"** and **"give orphans a loving home"** adds a personal and emotional touch, making it memorable and powerful. The word **"Join us"** also creates a sense of community and encourages people to be a part of the cause. Additionally, the tagline emphasizes the honesty and transparency of the project's mission.
+
 
 ## Getting Started
-To get started with HopeList, you'll need to have a few things installed on your machine:
+To get started with FamilyLink, you'll need to have a few things installed on your machine:
 
 - Java
 - MySQL
@@ -27,7 +32,7 @@ We welcome contributions to the HopeList project! If you'd like to contribute, p
 5. Open a pull request to the main repository.
 
 ## License
-HopeList is licensed under the MIT license. See the LICENSE file for more information.
+FamilyLink is licensed under the MIT license. See the LICENSE file for more information.
 
 ## Contact
-If you have any questions or comments about the HopeList project, please feel free to contact us at OkBayat@gmail.com.
+If you have any questions or comments about the FamilyLink project, please feel free to contact us at OkBayat@gmail.com.
